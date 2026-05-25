@@ -1,26 +1,40 @@
 # 2026-ietf126
 
-T2TRG face-to-face/hybrid summary meeting at IETF 126, Vienna
+T2TRG face-to-face/hybrid summary meeting at IETF 126, Vienna.
 
-Time & location TBD
+Date & location TBD.
+
+The planned scope of the meeting is the role of IETF IoT technologies in enabling AI agent interaction with IoT environments: 
+
+> We have already identified that many of the IETF-standardized self-description technologies (e.g., CoRE link format and SDF definitions) can help AI agents discover and use interaction capabilities, and that IoT protocols like CoAP can also fit agent use well [1, 2]. Frontier LLMs appear to be quite capable processing data formats based on IETF specifications (e.g., SenML). Where are the gaps with these technologies and what is needed to evolve them? How to handle other key areas such as security (Authentication, Disclosure, Forensic Readiness, ...)? Are there important areas where we completely lack enablers today?  
+> 
+> [1] IETF 123 T2TRG [meeting session](https://datatracker.ietf.org/doc/minutes-123-t2trg-202507210730/#jaime-jim%C3%A9nez-agentic-ai-operation-of-iot-systems) “Jaime Jiménez: Agentic AI operation of IoT Systems” 
+> [2] [draft-jimenez-t2trg-iot-agent](https://datatracker.ietf.org/doc/draft-jimenez-t2trg-iot-agent/)
 
 ## Draft agenda
 
-Please contact the [chairs][] for any agenda requests.
+
+- Focus @ IETF 126: Agentic IoT and self-description
+- If time permits: 
+    - Pick up Composable Code again after IETF 123 focus
+    - (other ongoing topics?)
+
+Please contact the [chairs][] for any agenda requests or questions/comments on the agenda.
 
 (All times are in UTC)
 
-|  Time | Who                  | Topic                                                                           |     |
-|-------|----------------------|---------------------------------------------------------------------------------|-----|
-| TBD   | Chairs               | Intro and logistics                                                             |     |
-|       | TBD                  | TBD                                                                             |     |
-|       | Chairs               | Wrapup                                                                          |     |
+|  Time | Who                    | Topic                                                                           |     |
+|-------|------------------------|---------------------------------------------------------------------------------|-----|
+| TBD   | Chairs                 | Intro and logistics                                                             |     |
+|       | Oscar Lopez            | LLM-Assisted Translation Between YANG and IoT Data Representations              |     |
+|       | Lorenzo Corneo (et al.)| Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements                  |     |
+|       | Chairs                 | Wrapup                                                                          |     |
 
 
-## Related Events:
+## Related meetings
 
-Other T2TRG activities
-
+* IETF IOTOPS WG (likely with a talk about DNS privacy in constrained IoT)
+* Agentic-related IETF BOFs
 * [IETF126 Hackathon, Saturday/Sunday, July 18/19, 2026][Hackathon]
 
 To register for the Hackathon (and/or for the IETF main meeting), you
