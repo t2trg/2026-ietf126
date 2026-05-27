@@ -2,7 +2,7 @@
 
 T2TRG face-to-face/hybrid summary meeting at IETF 126, Vienna.
 
-Date & location TBD.
+Exact date & detailed location TBD, during [IETF 126 week, 20..24 Jul 2026](https://www.ietf.org/meeting/126/) in Vienna.
 
 The planned scope of the meeting is the role of IETF IoT technologies in enabling AI agent interaction with IoT environments: 
 
@@ -19,16 +19,17 @@ The planned scope of the meeting is the role of IETF IoT technologies in enablin
     - Pick up Composable Code again after IETF 123 focus
     - (other ongoing topics?)
 
-Please contact the [chairs][] for any agenda requests or questions/comments on the agenda.
+Please contact the [chairs][] for agenda requests or questions/comments on the agenda.
 
 (All times are in UTC)
 
-|  Time | Who                    | Topic                                                                           |     |
-|-------|------------------------|---------------------------------------------------------------------------------|-----|
-| TBD   | Chairs                 | Intro and logistics                                                             |     |
-|       | Oscar Lopez            | LLM-Assisted Translation Between YANG and IoT Data Representations              |     |
-|       | Lorenzo Corneo (et al.)| Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements                  |     |
-|       | Chairs                 | Wrapup                                                                          |     |
+| Time | Who                     | Topic                                                              |
+|------|-------------------------|--------------------------------------------------------------------|
+| TBD  | Chairs                  | Intro and logistics                                                |
+|      | Oscar Lopez             | LLM-Assisted Translation Between YANG and IoT Data Representations |
+|      | Lorenzo Corneo (et al.) | Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements     |
+|      | (TBD)                   | (TBD)                                                                   |
+|      | Chairs                  | Wrapup                                                             |
 
 
 ## Related meetings
