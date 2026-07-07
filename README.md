@@ -1,8 +1,9 @@
 # 2026-ietf126
 
-T2TRG face-to-face/hybrid summary meeting at IETF 126, Vienna.
+T2TRG face-to-face/hybrid summary meeting at [IETF 126, Vienna](https://www.ietf.org/meeting/126/).
 
-Exact date & detailed location TBD, during [IETF 126 week, 20..24 Jul 2026](https://www.ietf.org/meeting/126/) in Vienna.
+Date and time: [Monday, 2026-07-24, 14..16 CEST](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2026&month=7&day=7&hour=12&min=0&sec=0&p1=259)
+Location: IETF meeting hotel, room Park Suite 7
 
 The planned scope of the meeting is the role of IETF IoT technologies in enabling AI agent interaction with IoT environments: 
 
