@@ -30,7 +30,7 @@ Please contact the [chairs][] for agenda requests or questions/comments on the a
 
 ## Related meetings
 
-* IETF IOTOPS WG (likely with a talk about DNS privacy in constrained IoT)
+* IETF IOTOPS WG (Research talk likely of interest to the RG: [DNS Privacy Enhancements for the Constrained IoT: DNS over CoAP, SCHC, and Onion CoAP](https://datatracker.ietf.org/doc/agenda-126-iotops/))
 * Agentic-related IETF BOFs
 * [IETF126 Hackathon, Saturday/Sunday, July 18/19, 2026][Hackathon]
 
