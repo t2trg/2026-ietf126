@@ -14,23 +14,17 @@ The planned scope of the meeting is the role of IETF IoT technologies in enablin
 
 ## Draft agenda
 
-
-- Focus @ IETF 126: Agentic IoT and self-description
-- If time permits: 
-    - Pick up Composable Code again after IETF 123 focus
-    - (other ongoing topics?)
-
 Please contact the [chairs][] for agenda requests or questions/comments on the agenda.
 
 
 | Time (CEST) | Who                     | Topic                                                              |
 |------|-------------------------|--------------------------------------------------------------------|
 |14:00 | Chairs                  | Intro and logistics                                                |
-|14:15 | Adrian Farrel           | Discovery of Agents, Workloads, and Named entities                 |
-|14:35 | Jari Arkko              | Agent discovery landscape                                          |
-|14:55 | Oscar Lopez             | LLM-Assisted Translation Between YANG and IoT Data Representations |
-|15:15 | Lorenzo Corneo          | Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements     |
-|15:35 |                         | (flex time / discussion)                                           |
+|14:10 | Adrian Farrel           | Discovery of Agents, Workloads, and Named entities                 |
+|14:30 | Jari Arkko              | Agent discovery landscape                                          |
+|14:50 | Oscar Lopez             | LLM-Assisted Translation Between YANG and IoT Data Representations |
+|15:10 | Lorenzo Corneo          | Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements     |
+|15:30 |                         | (flex time / discussion)                                           |
 |15:50 | Chairs                  | Wrapup                                                             |
 
 
