@@ -22,15 +22,16 @@ The planned scope of the meeting is the role of IETF IoT technologies in enablin
 
 Please contact the [chairs][] for agenda requests or questions/comments on the agenda.
 
-(All times are in UTC)
 
-| Time | Who                     | Topic                                                              |
+| Time (CEST) | Who                     | Topic                                                              |
 |------|-------------------------|--------------------------------------------------------------------|
-| TBD  | Chairs                  | Intro and logistics                                                |
-|      | Oscar Lopez             | LLM-Assisted Translation Between YANG and IoT Data Representations |
-|      | Lorenzo Corneo (et al.) | Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements     |
-|      | (TBD)                   | (TBD)                                                                   |
-|      | Chairs                  | Wrapup                                                             |
+|14:00 | Chairs                  | Intro and logistics                                                |
+|14:15 | Adrian Farrel           | Discovery of Agents, Workloads, and Named entities                 |
+|14:35 | Jari Arkko              | Agent discovery landscape                                          |
+|14:55 | Oscar Lopez             | LLM-Assisted Translation Between YANG and IoT Data Representations |
+|15:15 | Lorenzo Corneo          | Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements     |
+|15:35 |                         | (flex time / discussion)                                           |
+|15:50 | Chairs                  | Wrapup                                                             |
 
 
 ## Related meetings
