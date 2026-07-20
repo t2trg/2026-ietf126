@@ -24,8 +24,7 @@ Please contact the [chairs][] for agenda requests or questions/comments on the a
 |14:30 | Jari Arkko              | Agent discovery landscape                                          |
 |14:50 | Oscar Lopez             | LLM-Assisted Translation Between YANG and IoT Data Representations |
 |15:10 | Lorenzo Corneo          | Enabling AI Agents on the IoT Stack: CoAP and SDF Enhancements     |
-|15:30 | Tobias Fiebig           | When the Tower Crumbles: Losing the End-to-End Language with the Tower
-of AI (Impulse talk) |
+|15:30 | Tobias Fiebig           | When the Tower Crumbles: Losing the End-to-End Language with the Tower of AI (Impulse talk) |
 |15:35 | all                     | (discussion)                                                       |
 |15:50 | Chairs                  | Wrapup                                                             |
 
